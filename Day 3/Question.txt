@@ -1,0 +1,7 @@
+Create a VPC named xfusion-vpc in region us-east-1 with any IPv4 CIDR block through terraform.
+
+The Terraform working directory is /home/bob/terraform. Create the main.tf file (do not create a different .tf file) to accomplish this task.
+
+Hint : export AWS_REGION=us-east-1
+
+(As the provider is already mention in the lab so to add region we first export the AWS_REGION and then set the value 
